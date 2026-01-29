@@ -1,0 +1,26 @@
+# General
+*.log
+*.swp
+*.bak
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Neovim runtime (LazyVim installs these later)
+nvim/.cache/
+nvim/.local/
+nvim/.git/
+
+# Shell history
+.bash_history
+.zsh_history
+
+# Waybar runtime
+waybar/*.log
+
+# Backups
+.config-backup-*
+
+tmux/plugins/

@@ -1,0 +1,36 @@
+# Catppuccin Mocha for Alacritty
+# Ported from Kitty theme
+# Author: Pocco81 (Catppuccin)
+# License: MIT
+
+[colors.primary]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[colors.cursor]
+text   = "#1E1E2E"
+cursor = "#F5E0DC"
+
+[colors.selection]
+text       = "#1E1E2E"
+background = "#F5E0DC"
+
+[colors.normal]
+black   = "#43465A" # color0
+red     = "#F38BA8" # color1
+green   = "#A6E3A1" # color2
+yellow  = "#F9E2AF" # color3
+blue    = "#87B0F9" # color4
+magenta = "#F5C2E7" # color5
+cyan    = "#94E2D5" # color6
+white   = "#CDD6F4" # color7
+
+[colors.bright]
+black   = "#43465A" # color8
+red     = "#F38BA8" # color9
+green   = "#A6E3A1" # color10
+yellow  = "#F9E2AF" # color11
+blue    = "#87B0F9" # color12
+magenta = "#F5C2E7" # color13
+cyan    = "#94E2D5" # color14
+white   = "#A1A8C9" # color15

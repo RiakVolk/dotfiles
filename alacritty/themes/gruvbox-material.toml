@@ -1,0 +1,44 @@
+# Material Gruvbox Dark for Alacritty
+# Philosophy:
+# - Low eye strain
+# - No neon saturation
+# - Clear ANSI separation
+# - Material-like contrast
+
+[colors.primary]
+background = "#1D2021"   # material-hard bg
+foreground = "#D4BE98"   # soft fg (not pure white)
+
+[colors.cursor]
+text   = "#1D2021"
+cursor = "#D4BE98"
+
+[colors.selection]
+text       = "#1D2021"
+background = "#3C3836"
+
+# ─────────────────────────────────────────────
+# ANSI Normal (material-tuned)
+# ─────────────────────────────────────────────
+[colors.normal]
+black   = "#282828"
+red     = "#EA6962"
+green   = "#A9B665"
+yellow  = "#D8A657"
+blue    = "#7DAEA3"
+magenta = "#D3869B"
+cyan    = "#89B482"
+white   = "#D4BE98"
+
+# ─────────────────────────────────────────────
+# ANSI Bright (semantic, not duplicated)
+# ─────────────────────────────────────────────
+[colors.bright]
+black   = "#3C3836"
+red     = "#EA6962"
+green   = "#A9B665"
+yellow  = "#D8A657"
+blue    = "#7DAEA3"
+magenta = "#D3869B"
+cyan    = "#89B482"
+white   = "#FBF1C7"
